@@ -144,7 +144,7 @@ footer h4
         body
             {
                 justify-content: center;
-                display: inline-block;
+                display: inline;
             }
 
         header h1 img
@@ -155,9 +155,9 @@ footer h4
         .menu
             {
                 width: 100%;
-                flex-direction: row;            
+                flex-direction: column;            
                 align-items: center;
-                margin: 20px;
+                margin: 0px;
             }
 
         nav a
@@ -168,7 +168,7 @@ footer h4
             
         h3
             {
-                font-size: 30px;
+                font-size: 21px;
                 align-items: center;
             }
         
@@ -202,6 +202,6 @@ footer h4
 
         footer
             {
-                font-size: 30px;
+                font-size: 20px;
             }
     }
